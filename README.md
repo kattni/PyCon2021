@@ -1,2 +1,3 @@
-# PyCon2021
-PyCon 2021 CircuitPython Development Sprints material.
+# CircuitPython Development Sprints: PyCon 2021
+
+This is material related to the CircuitPython Development Sprints at PyCon 2021.
